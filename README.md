@@ -1,8 +1,8 @@
 # 安卓虚拟摄像头
 - 基于Xposed的虚拟摄像头
 # 请勿用于任何非法用途，所有后果自负！！
-# 无人直播交流QQ群（仅可交流无人直播）：[点击加入](http://qm.qq.com/cgi-bin/qm/qr?_wv=1027&k=BabJDep1FE-8XnN7LmMnc1ClF7DQmRTf&authKey=d2kwinRCSg10MbJ%2BO%2FgwcIkgivePn4K1pr0C4yo5eDDQ3A1wTR5nutWc4A3%2BiZt4&noverify=0&group_code=853735619)
-# 如需购买直播软件，请前往 https://vcamx.com 进行购买
+- 无人直播交流QQ群（仅可交流无人直播）：[点击加入](http://qm.qq.com/cgi-bin/qm/qr?_wv=1027&k=BabJDep1FE-8XnN7LmMnc1ClF7DQmRTf&authKey=d2kwinRCSg10MbJ%2BO%2FgwcIkgivePn4K1pr0C4yo5eDDQ3A1wTR5nutWc4A3%2BiZt4&noverify=0&group_code=853735619)
+- 如需购买直播软件，请前往 https://vcamx.com 进行购买
 ## 使用演示
 - https://fastly.jsdelivr.net/gh/iiheng/TuChuang@main/1700961311425EasyGIF-1700961287297.gif
 ## 开发计划
